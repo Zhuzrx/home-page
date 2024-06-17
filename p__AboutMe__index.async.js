@@ -14,17 +14,18 @@
 \r
 \r
 ### Publications\r
-- HeMiRCA: Fine-Grained Root Cause Analysis for Microservices with Heterogeneous Data Sources <br>\r
-<u>Zhouruixing Zhu</u>, Cheryl Lee, Xiaoying Tang, Pinjia He.\r
+- HeMiRCA: Fine-Grained Root Cause Analysis for Microservices with Heterogeneous Data Sources.\r
+*Zhouruixing Zhu*, Cheryl Lee, Xiaoying Tang, Pinjia He.\r
 *TOSEM: ACM Transactions on Software Engineering and Methodology (Just Accepted)*\r
 \r
-- SPES: Towards Optimizing Performance-Resource Trade-Off for Serverless Functions <br>\r
-Cheryl Lee, <u>Zhouruixing Zhu</u>, Tianyi Yang, Yuxin Su, Pinjia He, Michael R Lyu.\r
+- SPES: Towards Optimizing Performance-Resource Trade-Off for Serverless Functions.\r
+Cheryl Lee, *Zhouruixing Zhu*, Tianyi Yang, Yuxin Su, Pinjia He, Michael R Lyu.\r
 *ICDE'24: International Conference on Data Engineering*\r
 \r
-- Hue: A user-adaptive parser for hybrid logs <br>\r
-Junjielong Xu, Qiuai Fu, <u>Zhouruixing Zhu</u>, Yutong Cheng, Zhijing Li, Yuchi Ma, Pinjia He*.\r
-*ESEC/FSE'23: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering* <br>\r
+- Hue: A user-adaptive parser for hybrid logs.\r
+Junjielong Xu, Qiuai Fu, *Zhouruixing Zhu*, Yutong Cheng, Zhijing Li, Yuchi Ma, Pinjia He*.\r
+*ESEC/FSE'23: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering* \r
+\r
 (* Corresponding author)\r
 \r
 \r
