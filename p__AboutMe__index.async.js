@@ -1,5 +1,5 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[323],{65273:function(o,a,n){n.d(a,{Z:function(){return E}});var h=n(62435),s=n(65275),t=n(36029),l=n(29671),i=n(20640),c=n.n(i),d=n(33862),u=n(1210),g=n(85093),f=n(10524),v=n(14079),r=n(49721),S=n.p+"static/logo.4700deb7.png",m=`Mphil student at CUHKSZ\r
-`,e=n(86074),E=function(){var x=function(j){j.preventDefault(),c()(r.email),s.ZP.success("Email copied to clipboard",1)};return(0,e.jsxs)("div",{className:"sidebar",children:[(0,e.jsxs)("div",{className:"profile",children:[(0,e.jsx)(t.C,{size:{xs:48,sm:64,md:80,lg:128,xl:160,xxl:200},src:S}),(0,e.jsxs)("div",{className:"info",children:[(0,e.jsx)("div",{className:"name",children:r.name}),(0,e.jsx)("div",{className:"shortInfo",children:(0,e.jsx)(l.U,{children:m})})]})]}),(0,e.jsxs)("div",{className:"link",children:[(0,e.jsxs)("div",{children:[(0,e.jsx)(d.Z,{className:"icon"}),r.location]}),(0,e.jsxs)("div",{children:[(0,e.jsx)(u.Z,{className:"icon"}),(0,e.jsx)("a",{href:r.github,children:"Github"})]}),(0,e.jsxs)("div",{children:[(0,e.jsx)(g.Z,{className:"icon"}),(0,e.jsx)("a",{href:r==null?void 0:r.twitter,children:"Twitter"})]}),(0,e.jsxs)("div",{children:[(0,e.jsx)(f.Z,{className:"icon"}),(0,e.jsx)("a",{onClick:x,href:"",children:"Email"})]}),(0,e.jsxs)("div",{children:[(0,e.jsx)(v.Z,{className:"icon"}),(0,e.jsx)("a",{href:r==null?void 0:r.googleScholar,children:"Google Scholar"})]})]})]})}},92041:function(o,a,n){n.r(a),n.d(a,{default:function(){return c}});var h=n(62435),s=`\r
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[323],{65273:function(o,a,n){n.d(a,{Z:function(){return x}});var d=n(62435),s=n(65275),t=n(36029),l=n(29671),i=n(20640),c=n.n(i),h=n(33862),u=n(1210),g=n(85093),f=n(10524),v=n(14079),r=n(49721),S=n.p+"static/logo.4700deb7.png",m=`Mphil student at CUHKSZ\r
+`,e=n(86074),x=function(){var E=function(j){j.preventDefault(),c()(r.email),s.ZP.success("Email copied to clipboard",1)};return(0,e.jsxs)("div",{className:"sidebar",children:[(0,e.jsxs)("div",{className:"profile",children:[(0,e.jsx)(t.C,{size:{xs:48,sm:64,md:80,lg:128,xl:160,xxl:200},src:S}),(0,e.jsxs)("div",{className:"info",children:[(0,e.jsx)("div",{className:"name",children:r.name}),(0,e.jsx)("div",{className:"shortInfo",children:(0,e.jsx)(l.U,{children:m})})]})]}),(0,e.jsxs)("div",{className:"link",children:[(0,e.jsxs)("div",{children:[(0,e.jsx)(h.Z,{className:"icon"}),r.location]}),(0,e.jsxs)("div",{children:[(0,e.jsx)(u.Z,{className:"icon"}),(0,e.jsx)("a",{href:r.github,children:"Github"})]}),(0,e.jsxs)("div",{children:[(0,e.jsx)(g.Z,{className:"icon"}),(0,e.jsx)("a",{href:r==null?void 0:r.twitter,children:"Twitter"})]}),(0,e.jsxs)("div",{children:[(0,e.jsx)(f.Z,{className:"icon"}),(0,e.jsx)("a",{onClick:E,href:"",children:"Email"})]}),(0,e.jsxs)("div",{children:[(0,e.jsx)(v.Z,{className:"icon"}),(0,e.jsx)("a",{href:r==null?void 0:r.googleScholar,children:"Google Scholar"})]})]})]})}},92041:function(o,a,n){n.r(a),n.d(a,{default:function(){return c}});var d=n(62435),s=`\r
 ### About\r
 \r
 \u{1F4DA}Bio: Zhouruixing Zhu is currently a 2nd-year Mphil student in the [School of Science and Engineering](https://sse.cuhk.edu.cn/) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/) (CUHKSZ), advised by [Prof. Pinjia He](https://pinjiahe.github.io/). She holds a Bachelor's degree from the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA) in 2020.\r
@@ -14,17 +14,17 @@
 \r
 \r
 ### Publications\r
-#### (TOSEM) HeMiRCA: Fine-Grained Root Cause Analysis for Microservices with Heterogeneous Data Sources\r
-***Zhouruixing Zhu***, Cheryl Lee, Xiaoying Tang, Pinjia He.\r
-*To appear in the ACM Transactions on Software Engineering and Methodology (Just Accepted),2024*\r
+- HeMiRCA: Fine-Grained Root Cause Analysis for Microservices with Heterogeneous Data Sources <br>\r
+<u>Zhouruixing Zhu</u>, Cheryl Lee, Xiaoying Tang, Pinjia He.\r
+*TOSEM: ACM Transactions on Software Engineering and Methodology (Just Accepted)*\r
 \r
-#### (ICDE'24) SPES: Towards Optimizing Performance-Resource Trade-Off for Serverless Functions\r
-Cheryl Lee, ***Zhouruixing Zhu***, Tianyi Yang, Yuxin Su, Pinjia He, Michael R Lyu.\r
-*To appear in the Proceedings of IEEE 40th International Conference on Data Engineering, 2024*\r
+- SPES: Towards Optimizing Performance-Resource Trade-Off for Serverless Functions <br>\r
+Cheryl Lee, <u>Zhouruixing Zhu</u>, Tianyi Yang, Yuxin Su, Pinjia He, Michael R Lyu.\r
+*ICDE'24: International Conference on Data Engineering*\r
 \r
-#### (ESEC/FSE'23) Hue: A user-adaptive parser for hybrid logs\r
-Junjielong Xu, Qiuai Fu, ***Zhouruixing Zhu***, Yutong Cheng, Zhijing Li, Yuchi Ma, Pinjia He*.\r
-*To appear in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, 2023*\r
+- Hue: A user-adaptive parser for hybrid logs <br>\r
+Junjielong Xu, Qiuai Fu, <u>Zhouruixing Zhu</u>, Yutong Cheng, Zhijing Li, Yuchi Ma, Pinjia He*.\r
+*ESEC/FSE'23: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering* <br>\r
 (* Corresponding author)\r
 \r
 \r
