@@ -8,22 +8,22 @@
 \r
 \r
 ### News\r
-- [2024/06/18] I will serve on the Program Committee of Industry Track of ASE'2024. Welcome submissions!\r
-- [2024/05/27] Our paper *["HeMiRCA: Fine-Grained Root Cause Analysis for Microservices with Heterogeneous Data Sources"]* was accepted by **TOSEM**.\r
+- [2024/06/18] I will serve on the Program Committee of **Industry Track of ASE'2024**. Welcome submissions!\r
+- [2024/05/27] Our paper *"HeMiRCA: Fine-Grained Root Cause Analysis for Microservices with Heterogeneous Data Sources"* was accepted by **TOSEM**.\r
 - [2024/03/10] Our paper *["SPES: Towards Optimizing Performance-Resource Trade-Off for Serverless Functions"](http://arxiv.org/abs/2403.17574)* was accepted by **ICDE'24**.\r
 - [2023/07/28] Our paper *["Hue: A User-Adaptive Parser for Hybrid Logs"](https://dl.acm.org/doi/abs/10.1145/3611643.3616260)* was accepted by **ESEC/FSE'23**.\r
 \r
 \r
 ### Publications\r
-- HeMiRCA: Fine-Grained Root Cause Analysis for Microservices with Heterogeneous Data Sources.\r
+- **HeMiRCA: Fine-Grained Root Cause Analysis for Microservices with Heterogeneous Data Sources.**\r
 *Zhouruixing Zhu*, Cheryl Lee, Xiaoying Tang, Pinjia He.\r
 *TOSEM: ACM Transactions on Software Engineering and Methodology (Just Accepted)*\r
 \r
-- SPES: Towards Optimizing Performance-Resource Trade-Off for Serverless Functions.\r
+- **SPES: Towards Optimizing Performance-Resource Trade-Off for Serverless Functions.**\r
 Cheryl Lee, *Zhouruixing Zhu*, Tianyi Yang, Yuxin Su, Pinjia He, Michael R Lyu.\r
 *ICDE'24: International Conference on Data Engineering*\r
 \r
-- Hue: A user-adaptive parser for hybrid logs.\r
+- **Hue: A user-adaptive parser for hybrid logs.**\r
 Junjielong Xu, Qiuai Fu, *Zhouruixing Zhu*, Yutong Cheng, Zhijing Li, Yuchi Ma, Pinjia He*.\r
 *ESEC/FSE'23: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering* \r
 \r
